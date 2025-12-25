@@ -1,5 +1,5 @@
 #!/bin/bash
-#Maintainer DevOpsdecode@gmail.com
+#Maintainer riz1992.shaikh@gmail.com
 #This script will monitoring the CPU, RAM and Storage usage of the system
 #Variables 
 CPU_THRESHOLD=80
