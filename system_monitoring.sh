@@ -1,6 +1,7 @@
 #!/bin/bash
 #Maintainer riz1992.shaikh@gmail.com
 #This script will monitoring the CPU, RAM and Storage usage of the system.
+#Also get alert of top cpu consuming process.
 
 #Variables
 CPU_THRESHOLD=80
